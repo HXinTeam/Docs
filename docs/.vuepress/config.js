@@ -29,6 +29,7 @@ export default defineUserConfig({
         "/contact",
         "/start",
         "/solution",
+        "/how-to-ask",
         "/definition",
         {
           text: "账户",
