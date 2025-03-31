@@ -29,6 +29,7 @@ export default defineUserConfig({
         "/contact",
         "/start",
         "/solution",
+        "/buildId",
         "/how-to-ask",
         "/definition",
         {
